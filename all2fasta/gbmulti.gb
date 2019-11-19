@@ -1,0 +1,153 @@
+LOCUS       KM091268                 555 bp    mRNA    linear   INV 23-JUL-2014
+DEFINITION  Patiria miniata Bra mRNA, partial cds.
+ACCESSION   KM091268
+VERSION     KM091268.1
+KEYWORDS    .
+SOURCE      Patiria miniata (bat star)
+  ORGANISM  Patiria miniata
+            Eukaryota; Metazoa; Echinodermata; Eleutherozoa; Asterozoa;
+            Asteroidea; Valvatacea; Valvatida; Asterinidae; Patiria.
+REFERENCE   1  (bases 1 to 555)
+  AUTHORS   Hinman,V.F., Nguyen,A.T., Cameron,R.A. and Davidson,E.H.
+  TITLE     Developmental gene regulatory network architecture across 500
+            million years of echinoderm evolution
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 100 (23), 13356-13361 (2003)
+   PUBMED   14595011
+REFERENCE   2  (bases 1 to 555)
+  AUTHORS   Cheatle Jarvela,A.M., Brubaker,L., Vedenko,A., Gupta,A.,
+            Armitage,B.A., Bulyk,M.L. and Hinman,V.F.
+  TITLE     Modular Evolution of DNA Binding Preference of a Tbrain
+            Transcription Factor Provides a Mechanism for Modifying Gene
+            Regulatory Networks
+  JOURNAL   Mol. Biol. Evol. (2014) In press
+   PUBMED   25016582
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   3  (bases 1 to 555)
+  AUTHORS   Hinman,V.F. and Cheatle Jarvela,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JUL-2014) Biological Sciences, Carnegie Mellon
+            University, 4400 Fifth Ave, Pittsburgh, PA 15123, USA
+FEATURES             Location/Qualifiers
+     source          1..555
+                     /organism="Patiria miniata"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:46514"
+     CDS             <1..>555
+                     /note="PmBra"
+                     /codon_start=1
+                     /product="Bra"
+                     /protein_id="AIG14360.1"
+                     /translation="GLKVTLEDRDLWRRFSKLTNEMIVTKTGRRMFPVLSASVTGLNP
+                     NAMYSILLDFTPADEHRWKYVNGEWVPGGKPDSPPPSTAYIHPDSPNFGAHWMKQSVS
+                     FSKVKLSNKLNGTGQIMLNSLHKYEPRIHVIRVGGPEKQRLIRSFSFPETQFIAVTAY
+                     QNEDITQLKIKYNPFAKAFLDIKEK"
+ORIGIN      
+        1 ggactgaaag tcacgctgga ggaccgggac ctgtggcggc ggttcagcaa gctgaccaac
+       61 gagatgatcg tcaccaagac cggcaggcgg atgttccccg tgctctccgc ctcagtcacc
+      121 ggcctgaacc ccaacgccat gtactccatc ctgttggact tcaccccagc cgacgagcac
+      181 cgatggaagt acgtgaacgg ggagtgggta ccgggcggta agcccgactc cccgccgccc
+      241 agcacggcct acatccaccc cgactcgccc aacttcggcg cgcactggat gaagcaaagc
+      301 gtctccttca gtaaagtcaa gctgtctaac aaactcaacg gcactggaca gatcatgttg
+      361 aactctcttc acaagtacga gccacgcatc cacgtcatac gggtcggtgg gccagagaag
+      421 caacgcctca tacgtagctt cagcttccct gagacgcagt tcattgccgt caccgcctac
+      481 cagaacgaag atatcacaca gctcaaaata aagtacaacc cgtttgcaaa agcctttctg
+      541 gacatcaaag aaaag
+//
+
+LOCUS       EU797118                 543 bp    mRNA    linear   INV 26-JUL-2016
+DEFINITION  Lottia gigantea brachyury (bra) mRNA, partial cds.
+ACCESSION   EU797118
+VERSION     EU797118.1
+KEYWORDS    .
+SOURCE      Lottia gigantea (owl limpet)
+  ORGANISM  Lottia gigantea
+            Eukaryota; Metazoa; Lophotrochozoa; Mollusca; Gastropoda;
+            Patellogastropoda; Lottioidea; Lottiidae; Lottia.
+REFERENCE   1  (bases 1 to 543)
+  AUTHORS   Grande,C. and Patel,N.H.
+  TITLE     Nodal signalling is involved in left-right asymmetry in snails
+  JOURNAL   Nature 457 (7232), 1007-1011 (2009)
+   PUBMED   19098895
+REFERENCE   2  (bases 1 to 543)
+  AUTHORS   Grande,C. and Patel,N.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JUN-2008) Dept. of Integrative Biology and Dept. of
+            Molecular Cell Biology, University of California, Berkeley, 3060
+            VLSB # 3140, Berkeley, CA 94720-3140, USA
+FEATURES             Location/Qualifiers
+     source          1..543
+                     /organism="Lottia gigantea"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:225164"
+     gene            <1..>543
+                     /gene="bra"
+     CDS             <1..>543
+                     /gene="bra"
+                     /codon_start=1
+                     /product="brachyury"
+                     /protein_id="ACI97437.1"
+                     /translation="RGATSPELTDMKSNQVDINHLLSAVDTEMTMGSEKGDPTERQLT
+                     VKLEDRPLWEKFKEYTNEMIVTKNGRRMFPVFRVSVSGVDPNAMYTLLLDFVQVDNHR
+                     WKYVNGDWVPGGKAEPAAPNCVYIHPDSPNFGAHWMKEPLSFSKVKLTNKLNGGGQIM
+                     LNSLHKYEPRIHIVRVNSRTQ"
+ORIGIN      
+        1 cgtggtgcta cgagccctga attaaccgac atgaaatcca atcaagttga tattaaccat
+       61 ctattgagtg ccgtcgatac cgagatgacg atggggagtg aaaaaggtga ccccacggag
+      121 cgacaattga ctgtcaaatt ggaagacaga ccgttatggg agaaatttaa ggaatatacg
+      181 aacgaaatga tcgttacgaa gaacggcagg cgaatgtttc cagtgtttag agtctctgta
+      241 tcaggagtgg atcctaacgc catgtacacc ttactcttgg atttcgtaca agttgataac
+      301 caccgatgga agtatgtgaa cggagactgg gtgcccggcg gcaaggctga accagctgcc
+      361 cctaactgtg tatatatcca ccccgattcc cctaattttg gagcgcattg gatgaaagag
+      421 cctttatcat tcagtaaagt gaaattgacg aataaattaa atggtggcgg acagattatg
+      481 ttaaattccc ttcataaata cgaaccaaga attcatatcg ttagagtcaa ctccagaaca
+      541 cag
+//
+
+LOCUS       AY626265                 430 bp    mRNA    linear   INV 12-OCT-2004
+DEFINITION  Oopsacas minuta brachyury (Bra) mRNA, partial cds.
+ACCESSION   AY626265
+VERSION     AY626265.1
+KEYWORDS    .
+SOURCE      Oopsacas minuta
+  ORGANISM  Oopsacas minuta
+            Eukaryota; Metazoa; Porifera; Hexactinellida; Hexasterophora;
+            Lyssacinosida; Leucopsacidae; Oopsacas.
+REFERENCE   1  (bases 1 to 430)
+  AUTHORS   Manuel,M., Le Parco,Y. and Borchiellini,C.
+  TITLE     Comparative analysis of Brachyury T-domains, with the
+            characterization of two new sponge sequences, from a hexactinellid
+            and a calcisponge
+  JOURNAL   Gene 340 (2), 291-301 (2004)
+   PUBMED   15475171
+REFERENCE   2  (bases 1 to 430)
+  AUTHORS   Manuel,M. and Borchiellini,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2004) UMR 7138, Universite Pierre et Marie Curie,
+            9 quai St Bernard, Paris 75005, France
+FEATURES             Location/Qualifiers
+     source          1..430
+                     /organism="Oopsacas minuta"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:111878"
+     gene            <1..>430
+                     /gene="Bra"
+     CDS             <1..>430
+                     /gene="Bra"
+                     /note="T-domain containing transcription factor; OoBra"
+                     /codon_start=2
+                     /product="brachyury"
+                     /protein_id="AAU95753.1"
+                     /translation="ILKVHARGLDPKAMYNVMLDFAAADSTRWKFVNGEWVVRGKPEP
+                     AAPSCQYTHPDSPHFGSHWMKQPMQFCKVKLSNKLNSNGQIMLNSLHKYEPRVHIVRV
+                     ESNTSDGDQEKVCSASFSDAQFIAVTAYQNEEITNLKIRYN"
+ORIGIN      
+        1 gatccttaaa gtacatgcac gcgggcttga ccctaaagca atgtacaatg ttatgctgga
+       61 ttttgctgct gctgatagta cacgctggaa gtttgtaaat ggggagtggg tcgtgagagg
+      121 gaaaccagaa ccagctgctc ctagctgtca atacacacac cctgattctc cacactttgg
+      181 tagtcattgg atgaaacagc ctatgcagtt ctgtaaagtc aaactgtcga ataaactcaa
+      241 ctcaaatgga cagattatgc tcaactctct tcacaagtat gagcctagag tacacatcgt
+      301 tagggtagaa tcaaatactt cagatggtga ccaagaaaag gtgtgctctg caagcttttc
+      361 agatgctcag tttatagctg ttacagctta ccagaatgaa gagatcacaa atcttaaaat
+      421 tcgctacaat
+//
+

@@ -1,0 +1,326 @@
+ID   GE301676; SV 1; linear; mRNA; EST; INV; 103 BP.
+XX
+AC   GE301676;
+XX
+DT   12-OCT-2008 (Rel. 97, Created)
+DT   12-OCT-2008 (Rel. 97, Last updated, Version 1)
+XX
+DE   OXAY-aaa45c04.g1 Oxytricha_pSMART_OXAY Sterkiella histriomuscorum cDNA
+DE   similar to pdb|2CPK|E Chain E, c-AMP-Dependent Protein Kinase
+DE   (E.C.2.7.1.37) (cAPK) (Catalytic Subunit) pdb|1ATP|E Chain E,
+DE   c-AMP-Dependent Protein Kinase (E.C.2.7.1.37) (cAPK) (Catalytic Subunit)
+DE   Complex With The Peptide Inhibitor Pki(5-24) And Mnatp (A Terna, mRNA
+DE   sequence.
+XX
+KW   EST.
+XX
+OS   Sterkiella histriomuscorum
+OC   Eukaryota; Alveolata; Ciliophora; Intramacronucleata; Spirotrichea;
+OC   Stichotrichia; Sporadotrichida; Oxytrichidae; Stylonychinae; Sterkiella.
+XX
+RN   [1]
+RP   1-103
+RA   Wilson R.;
+RT   "WashU Oxytricha EST Project";
+RL   Unpublished.
+XX
+DR   MD5; c2439426729f7338a358d295871db33e.
+DR   UNILIB; 49594; 23681.
+XX
+CC   Contact: Tom Doak
+CC   WashU Oxytricha EST Project
+CC   Washington University School of Medicine
+CC   4444 Forest Park Parkway, Box 8501, St. Louis, MO 63108, USA
+CC   Tel: 314 286 1800
+CC   Fax: 314 286 1810
+CC   Email: submissions@watson.wustl.edu
+CC   Library material provided by Dr. Laura Landweber, Dept. of Ecology
+CC   and Evolutionary Biology, Princeton University Library constructed
+CC   by Mike Becker Library sequenced by Washington University Genome
+CC   Sequencing Center
+CC   This trace has been recalled with phred
+CC   original value before phred recall for SR was 197
+CC   COMM   possible reversed clone; protein similarity on positive
+CC   strand.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..103
+FT                   /organism="Sterkiella histriomuscorum"
+FT                   /lab_host="Lucigen E.cloni 10G Supreme"
+FT                   /mol_type="mRNA"
+FT                   /dev_stage="Mating Type 5hr"
+FT                   /clone_lib="Oxytricha_pSMART_OXAY"
+FT                   /note="Vector: pSMART; Site_1: HincII; Site_2: HincII"
+FT                   /db_xref="taxon:94289"
+FT                   /db_xref="UNILIB:49594"
+XX
+SQ   Sequence 103 BP; 28 A; 18 C; 20 G; 37 T; 0 other;
+     tttactaatt tgagggatat agggagctgg tactttacgt tgcgatagtt tataccaatc        60
+     taaattcttg aaccacctat gattcttgat atcgttagca ccg                         103
+//
+ID   BC003238; SV 1; linear; mRNA; STD; MUS; 2292 BP.
+XX
+AC   BC003238;
+XX
+DT   09-MAR-2001 (Rel. 67, Created)
+DT   24-SEP-2008 (Rel. 97, Last updated, Version 13)
+XX
+DE   Mus musculus protein kinase, cAMP dependent, catalytic, alpha, mRNA (cDNA
+DE   clone MGC:6169 IMAGE:3497908), complete cds.
+XX
+KW   MGC.
+XX
+OS   Mus musculus (house mouse)
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha; Muroidea; Muridae;
+OC   Murinae; Mus; Mus.
+XX
+RN   [1]
+RP   1-2292
+RX   DOI; 10.1073/pnas.242603899.
+RX   PUBMED; 12477932.
+RG   Mammalian Gene Collection Program Team
+RA   Strausberg R.L., Feingold E.A., Grouse L.H., Derge J.G., Klausner R.D.,
+RA   Collins F.S., Wagner L., Shenmen C.M., Schuler G.D., Altschul S.F.,
+RA   Zeeberg B., Buetow K.H., Schaefer C.F., Bhat N.K., Hopkins R.F., Jordan H.,
+RA   Moore T., Max S.I., Wang J., Hsieh F., Diatchenko L., Marusina K.,
+RA   Farmer A.A., Rubin G.M., Hong L., Stapleton M., Soares M.B., Bonaldo M.F.,
+RA   Casavant T.L., Scheetz T.E., Brownstein M.J., Usdin T.B., Toshiyuki S.,
+RA   Carninci P., Prange C., Raha S.S., Loquellano N.A., Peters G.J.,
+RA   Abramson R.D., Mullahy S.J., Bosak S.A., McEwan P.J., McKernan K.J.,
+RA   Malek J.A., Gunaratne P.H., Richards S., Worley K.C., Hale S., Garcia A.M.,
+RA   Gay L.J., Hulyk S.W., Villalon D.K., Muzny D.M., Sodergren E.J., Lu X.,
+RA   Gibbs R.A., Fahey J., Helton E., Ketteman M., Madan A., Rodrigues S.,
+RA   Sanchez A., Whiting M., Madan A., Young A.C., Shevchenko Y., Bouffard G.G.,
+RA   Blakesley R.W., Touchman J.W., Green E.D., Dickson M.C., Rodriguez A.C.,
+RA   Grimwood J., Schmutz J., Myers R.M., Butterfield Y.S., Krzywinski M.I.,
+RA   Skalska U., Smailus D.E., Schnerch A., Schein J.E., Jones S.J., Marra M.A.;
+RT   "Generation and initial analysis of more than 15,000 full-length human and
+RT   mouse cDNA sequences";
+RL   Proc. Natl. Acad. Sci. U.S.A. 99(26):16899-16903(2002).
+XX
+RN   [2]
+RC   NIH-MGC Project URL: http://mgc.nci.nih.gov
+RP   1-2292
+RG   NIH MGC Project
+RA   ;
+RT   ;
+RL   Submitted (20-FEB-2001) to the INSDC.
+RL   National Institutes of Health, Mammalian Gene Collection (MGC), Bethesda,
+RL   MD 20892-2590, USA
+XX
+DR   MD5; 56ab03fff62bbe73cb48f37017324ae1.
+DR   Ensembl-Gn; ENSMUSG00000005469; mus_musculus.
+DR   Ensembl-Gn; MGP_129S1SvImJ_G0033844; mus_musculus_129s1svimj.
+DR   Ensembl-Gn; MGP_AJ_G0033827; mus_musculus_aj.
+DR   Ensembl-Gn; MGP_AKRJ_G0033753; mus_musculus_akrj.
+DR   Ensembl-Gn; MGP_BALBcJ_G0033820; mus_musculus_balbcj.
+DR   Ensembl-Gn; MGP_C3HHeJ_G0033530; mus_musculus_c3hhej.
+DR   Ensembl-Gn; MGP_C57BL6NJ_G0034340; mus_musculus_c57bl6nj.
+DR   Ensembl-Gn; MGP_CASTEiJ_G0032860; mus_musculus_casteij.
+DR   Ensembl-Gn; MGP_CBAJ_G0033506; mus_musculus_cbaj.
+DR   Ensembl-Gn; MGP_DBA2J_G0033661; mus_musculus_dba2j.
+DR   Ensembl-Gn; MGP_FVBNJ_G0033607; mus_musculus_fvbnj.
+DR   Ensembl-Gn; MGP_LPJ_G0033751; mus_musculus_lpj.
+DR   Ensembl-Gn; MGP_NODShiLtJ_G0033649; mus_musculus_nodshiltj.
+DR   Ensembl-Gn; MGP_NZOHlLtJ_G0034357; mus_musculus_nzohlltj.
+DR   Ensembl-Gn; MGP_PWKPhJ_G0032564; mus_musculus_pwkphj.
+DR   Ensembl-Gn; MGP_WSBEiJ_G0032973; mus_musculus_wsbeij.
+DR   Ensembl-Tr; ENSMUST00000005606; mus_musculus.
+DR   Ensembl-Tr; ENSMUST00000211558; mus_musculus.
+DR   Ensembl-Tr; MGP_129S1SvImJ_T0089625; mus_musculus_129s1svimj.
+DR   Ensembl-Tr; MGP_AJ_T0089706; mus_musculus_aj.
+DR   Ensembl-Tr; MGP_AKRJ_T0089645; mus_musculus_akrj.
+DR   Ensembl-Tr; MGP_BALBcJ_T0089643; mus_musculus_balbcj.
+DR   Ensembl-Tr; MGP_C3HHeJ_T0089209; mus_musculus_c3hhej.
+DR   Ensembl-Tr; MGP_C57BL6NJ_T0090163; mus_musculus_c57bl6nj.
+DR   Ensembl-Tr; MGP_CASTEiJ_T0089757; mus_musculus_casteij.
+DR   Ensembl-Tr; MGP_CBAJ_T0089143; mus_musculus_cbaj.
+DR   Ensembl-Tr; MGP_DBA2J_T0089350; mus_musculus_dba2j.
+DR   Ensembl-Tr; MGP_FVBNJ_T0089195; mus_musculus_fvbnj.
+DR   Ensembl-Tr; MGP_LPJ_T0089384; mus_musculus_lpj.
+DR   Ensembl-Tr; MGP_NODShiLtJ_T0089215; mus_musculus_nodshiltj.
+DR   Ensembl-Tr; MGP_NZOHlLtJ_T0090466; mus_musculus_nzohlltj.
+DR   Ensembl-Tr; MGP_PWKPhJ_T0089180; mus_musculus_pwkphj.
+DR   Ensembl-Tr; MGP_WSBEiJ_T0088255; mus_musculus_wsbeij.
+XX
+CC   Contact: MGC help desk
+CC   Email: cgapbs-r@mail.nih.gov
+CC   Tissue Procurement: Jeffrey Green M.D.
+CC   cDNA Library Preparation: Life Technologies, Inc.
+CC   cDNA Library Arrayed by: The I.M.A.G.E. Consortium (LLNL)
+CC   DNA Sequencing by: Baylor College of Medicine Human Genome
+CC   Sequencing Center
+CC   Center code: BCM-HGSC
+CC   Web site: http://www.hgsc.bcm.tmc.edu/cdna/
+CC   Contact: amg@bcm.tmc.edu
+CC   Gunaratne, P.H., Garcia, A.M., Lu, X., Hulyk, S.W., Loulseged, H.,
+CC   Kowis, C.R., Sneed, A.J., Martin, R.G., Muzny, D.M., Nanavati,
+CC   A.N., Gibbs, R.A.
+CC   Clone distribution: MGC clone distribution information can be found
+CC   through the I.M.A.G.E. Consortium/LLNL at: http://image.llnl.gov
+CC   Series: IRAK Plate: 9 Row: i Column: 3
+CC   This clone was selected for full length sequencing because it
+CC   passed the following selection criteria: matched mRNA gi: 24475738.
+CC   Differences found between this sequence and the mouse C57BL/6J
+CC   genome (build 36) are described in misc_difference features below.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2292
+FT                   /organism="Mus musculus"
+FT                   /lab_host="DH10B"
+FT                   /strain="FVB/N"
+FT                   /mol_type="mRNA"
+FT                   /clone_lib="NCI_CGAP_Mam6"
+FT                   /clone="MGC:6169 IMAGE:3497908"
+FT                   /tissue_type="Mammary tumor. C3(1)-Tag model. Infiltrating
+FT                   ductal carcinoma. 5 month old virgin mouse."
+FT                   /note="Vector: pCMV-SPORT6"
+FT                   /db_xref="taxon:10090"
+FT   gene            1..2292
+FT                   /gene="Prkaca"
+FT                   /note="synonyms: Cs, PKA, PKCD"
+FT   CDS             200..1255
+FT                   /codon_start=1
+FT                   /gene="Prkaca"
+FT                   /product="protein kinase, cAMP dependent, catalytic, alpha"
+FT                   /db_xref="GOA:P05132"
+FT                   /db_xref="InterPro:IPR000719"
+FT                   /db_xref="InterPro:IPR000961"
+FT                   /db_xref="InterPro:IPR008271"
+FT                   /db_xref="InterPro:IPR011009"
+FT                   /db_xref="InterPro:IPR017441"
+FT                   /db_xref="InterPro:IPR039035"
+FT                   /db_xref="MGI:MGI:97592"
+FT                   /db_xref="PDB:1APM"
+FT                   /db_xref="PDB:1ATP"
+FT                   /db_xref="PDB:1BKX"
+FT                   /db_xref="PDB:1BX6"
+FT                   /db_xref="PDB:1FMO"
+FT                   /db_xref="PDB:1J3H"
+FT                   /db_xref="PDB:1JBP"
+FT                   /db_xref="PDB:1JLU"
+FT                   /db_xref="PDB:1L3R"
+FT                   /db_xref="PDB:1PVK"
+FT                   /db_xref="PDB:1RDQ"
+FT                   /db_xref="PDB:1RE8"
+FT                   /db_xref="PDB:1REJ"
+FT                   /db_xref="PDB:1REK"
+FT                   /db_xref="PDB:1SYK"
+FT                   /db_xref="PDB:2CPK"
+FT                   /db_xref="PDB:2ERZ"
+FT                   /db_xref="PDB:2QCS"
+FT                   /db_xref="PDB:2QUR"
+FT                   /db_xref="PDB:2QVS"
+FT                   /db_xref="PDB:3FHI"
+FT                   /db_xref="PDB:3FJQ"
+FT                   /db_xref="PDB:3IDB"
+FT                   /db_xref="PDB:3IDC"
+FT                   /db_xref="PDB:3J4Q"
+FT                   /db_xref="PDB:3J4R"
+FT                   /db_xref="PDB:3O7L"
+FT                   /db_xref="PDB:3OW3"
+FT                   /db_xref="PDB:3PVB"
+FT                   /db_xref="PDB:3QAL"
+FT                   /db_xref="PDB:3QAM"
+FT                   /db_xref="PDB:3TNP"
+FT                   /db_xref="PDB:3TNQ"
+FT                   /db_xref="PDB:3X2U"
+FT                   /db_xref="PDB:3X2V"
+FT                   /db_xref="PDB:3X2W"
+FT                   /db_xref="PDB:4DFX"
+FT                   /db_xref="PDB:4DFY"
+FT                   /db_xref="PDB:4DFZ"
+FT                   /db_xref="PDB:4DG0"
+FT                   /db_xref="PDB:4DG2"
+FT                   /db_xref="PDB:4DG3"
+FT                   /db_xref="PDB:4DH1"
+FT                   /db_xref="PDB:4DH3"
+FT                   /db_xref="PDB:4DH5"
+FT                   /db_xref="PDB:4DH7"
+FT                   /db_xref="PDB:4DH8"
+FT                   /db_xref="PDB:4DIN"
+FT                   /db_xref="PDB:4HPT"
+FT                   /db_xref="PDB:4HPU"
+FT                   /db_xref="PDB:4IAC"
+FT                   /db_xref="PDB:4IAD"
+FT                   /db_xref="PDB:4IAF"
+FT                   /db_xref="PDB:4IAI"
+FT                   /db_xref="PDB:4IAK"
+FT                   /db_xref="PDB:4IAY"
+FT                   /db_xref="PDB:4IAZ"
+FT                   /db_xref="PDB:4IB0"
+FT                   /db_xref="PDB:4IB1"
+FT                   /db_xref="PDB:4IB3"
+FT                   /db_xref="PDB:4NTS"
+FT                   /db_xref="PDB:4NTT"
+FT                   /db_xref="PDB:4O21"
+FT                   /db_xref="PDB:4O22"
+FT                   /db_xref="PDB:4WBB"
+FT                   /db_xref="PDB:4X6Q"
+FT                   /db_xref="PDB:4X6R"
+FT                   /db_xref="PDB:4XW4"
+FT                   /db_xref="PDB:4XW5"
+FT                   /db_xref="PDB:4XW6"
+FT                   /db_xref="PDB:5JR7"
+FT                   /db_xref="PDB:5X3F"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P05132"
+FT                   /protein_id="AAH03238.1"
+FT                   /translation="MGNAAAAKKGSEQESVKEFLAKAKEDFLKKWETPSQNTAQLDQFD
+FT                   RIKTLGTGSFGRVMLVKHKESGNHYAMKILDKQKVVKLKQIEHTLNEKRILQAVNFPFL
+FT                   VKLEFSFKDNSNLYMVMEYVAGGEMFSHLRRIGRFSEPHARFYAAQIVLTFEYLHSLDL
+FT                   IYRDLKPENLLIDQQGYIQVTDFGFAKRVKGRTWTLCGTPEYLAPEIILSKGYNKAVDW
+FT                   WALGVLIYEMAAGYPPFFADQPIQIYEKIVSGKVRFPSHFSSDLKDLLRNLLQVDLTKR
+FT                   FGNLKNGVNDIKNHKWFATTDWIAIYQRKVEAPFIPKFKGPGDTSNFDDYEEEEIRVSI
+FT                   NEKCGKEFTEF"
+FT   misc_difference 1721
+FT                   /gene="Prkaca"
+FT                   /note="1 base in cDNA is not found in the mouse genome."
+FT   misc_difference 2279..2292
+FT                   /gene="Prkaca"
+FT                   /note="polyA tail: 14 bases do not align to the mouse
+FT                   genome."
+XX
+SQ   Sequence 2292 BP; 513 A; 656 C; 596 G; 527 T; 0 other;
+     cttgggctga ggctcccccg cgggcgggcg cagagagacg cgggaagcag gggctgggcg        60
+     ggggtcgtgg cgccgcagcc agcgcagcca gccccagggg ccgccgcctc cgctgcccag       120
+     cgcgctccgg ggccgccggc caccttagca cccgccgcgt cgcagctccg ggactggccc       180
+     cggccgcgac gccgccgcga tgggcaacgc cgccgccgcc aagaagggca gcgagcagga       240
+     gagcgtgaaa gagttcctag ccaaagccaa ggaagatttc ctgaaaaaat gggagacccc       300
+     ttctcagaat acagcccagt tggatcagtt tgatagaatc aagacccttg gcaccggctc       360
+     ctttgggcga gtgatgctgg tgaagcacaa ggagagtggg aaccactacg ccatgaagat       420
+     cttagacaag cagaaggtgg tgaagctaaa gcagatcgag cacactctga atgagaagcg       480
+     catcctgcag gccgtcaact tcccgttcct ggtcaaactt gaattctcct tcaaggacaa       540
+     ctcaaacctg tacatggtca tggagtatgt agctggtggc gagatgttct cccacctacg       600
+     gcggattgga aggttcagcg agccccatgc ccgtttctac gcggcgcaga tcgtcctgac       660
+     ctttgagtat ctgcactccc tggacctcat ctaccgggac ctgaagcccg agaatcttct       720
+     catcgaccag cagggctata ttcaggtgac agacttcggt tttgccaagc gtgtgaaagg       780
+     ccgtacttgg accttgtgtg ggacccctga gtacttggcc cccgagatta tcctgagcaa       840
+     aggctacaac aaggctgtgg actggtgggc tctcggagtc ctcatctacg agatggctgc       900
+     tggttaccca cccttcttcg ctgaccagcc tatccagatc tatgagaaaa tcgtctctgg       960
+     gaaggtgcgg ttcccatccc acttcagctc tgacttgaag gacctgctgc ggaaccttct      1020
+     gcaggtggat ctcaccaagc gctttgggaa cctcaagaac ggggtcaatg acatcaagaa      1080
+     ccacaagtgg tttgccacga ctgactggat tgccatctat cagagaaagg tggaagctcc      1140
+     cttcatacca aagtttaaag gccctgggga cacgagtaac tttgacgact atgaggagga      1200
+     agagatccgg gtctccatca atgagaagtg tggcaaggag tttactgagt tttaggggtg      1260
+     tgcttgtgcc ccttgggttc tctttcattt tttctttttc tttctatttt ttttccggtt      1320
+     gggggtggga gggttggatc gaacagccag agggccctag agttccatgc atctaattta      1380
+     acatccactc cacaccccca gggttaagga gagcaggaaa gcgctccaga tactggggaa      1440
+     ggggcaacat cagctgctcc ccctctccct tcttctccac ccttccctgc ctgttttcaa      1500
+     tgaatttctt agctccagcc atacccaatc ttgctggtgt atccaggggc agggtacgga      1560
+     aagagggccc caaattcagc ctccttcccg accctagcac tggatactaa ggatgaacga      1620
+     acagtaacgc caaccttccc ttccatgcag ccctacctgg aaagggagat tttatgacct      1680
+     gtacagaggg ctgcttgcca gtggggtttt tttttttttt tcatttaaat taagttccac      1740
+     cagtgcctcc caccctccaa actgtcccac cctccccaaa caccctcctc actccctaaa      1800
+     tccattctga tgagacccgg gtagccaact gaccctgtca aggaaggaac tgggcttgga      1860
+     atctcgccct gagctgctag cctcccggcc cccctttcca gtggtctcat gccaattgtc      1920
+     ctgtgcatca gcccccttaa gaagcctccc ccatcctggg cgcctcgctt ctagcttagc      1980
+     tgtcagctgt ccatcacctc ttgccgtgcg tccccactca ctgcaacccc aagtctgatt      2040
+     gtgctttttc tctcaataga aaggtgggga gctgctgggg aaattacccc atttatccct      2100
+     gtgtttatcc ctctcgtaac ttctcccaaa aaggaggagc tctcaggcct gggtgggggc      2160
+     cccgggtgga cgagggggtc gttcaacctg tgtgcttcga aggatgagac ttcctcttga      2220
+     acagtgtgct gttgtaaaca tatttgaaaa ctattaccaa taaagttttg ttttaaaaaa      2280
+     aaaaaaaaaa aa                                                          2292
+//
